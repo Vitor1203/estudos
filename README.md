@@ -1,3 +1,3 @@
-# cadastro de pessoas
+# cadastro de carros
 
-Programa desenvolvido para simular cadastro de pessoas.
+Programa desenvolvido para simular cadastro de carros.
